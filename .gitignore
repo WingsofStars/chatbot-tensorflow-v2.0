@@ -1,0 +1,13 @@
+
+*.v2
+*.vsidx
+*.lock
+.vs/chatbot-tensorflow-v2.0/v17/.suo
+*.1
+chatbot website/.vs/chatbot website/v17/.suo
+*.json
+*.props
+*.cache
+*.editorconfig
+chatbot website/obj/chatbot website.csproj.nuget.dgspec.json
+chatbot website/obj/chatbot website.csproj.nuget.g.props
